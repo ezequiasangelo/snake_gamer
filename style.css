@@ -1,0 +1,13 @@
+body{
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(90deg, rgba(2, 33, 86, 1), rgba(0, 135, 170, 1));
+    color: rgb(0, 0, 0);
+}
+#snake {
+    border-radius: 2rem;
+}
